@@ -10,7 +10,7 @@ Category.init(
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      pimaryKey: true,
+      primaryKey: true,
       autoIncrement: true,
     },
     // * `id`
@@ -18,7 +18,7 @@ Category.init(
     //   * Doesn't allow null values.
     //   * Set as primary key.
     //   * Uses auto increment.
-    category_name: { type: DataTypes.String, allowNull: false },
+    category_name: { type: DataTypes.STRING, allowNull: false },
     // * `category_name`
     //   * String.
     //   * Doesn't allow null values.
