@@ -1,9 +1,10 @@
 # e-commerce-backend
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This assignment shows that routes using models and sequalize 
+This assignment shows that routes using models and sequalize
 
 ## Table of Contents
 
@@ -19,7 +20,7 @@ Clone repo and npm install and init.
 
 ## Video
 
-Test the routes in 
+[Video](https://watch.screencastify.com/v/1RjhNTfl384tZOzRYkcE)
 
 ## License
 
